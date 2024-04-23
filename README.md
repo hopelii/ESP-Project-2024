@@ -1,4 +1,4 @@
-# ESP-Project-2024
+# Exploring Factors Influencing New York City Subway Ridership: A Machine Learning Approach
 A project done for the Emerging Scholars Program at CUNY City Tech.
 
 Abstract:
